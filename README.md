@@ -5,10 +5,7 @@
 ![GitHub Release Date](https://img.shields.io/github/release-date/marlinfirmware/marlin.svg)
 [![Build Status](https://github.com/MarlinFirmware/Marlin/workflows/CI/badge.svg?branch=bugfix-2.0.x)](https://github.com/MarlinFirmware/Marlin/actions)
 
-<img align="right" width=175 src="buildroot/share/pixmaps/logo/marlin-250.png" />
-
-Additional documentation can be found at the [Marlin Home Page](https://marlinfw.org/).
-Please test this firmware and let us know if it misbehaves in any way. Volunteers are standing by!
+![Монтажная область 14](https://user-images.githubusercontent.com/72000455/166999321-0112a883-f439-4d09-9b2d-43dcde5d3017.png)
 
 ## ЖИГУЛЬ 3D
 Это переделанный Anet A8 2017 года, на самом деле от оригинального принтера остались только валы и шаговые двигатели.
